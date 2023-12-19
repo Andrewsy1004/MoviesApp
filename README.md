@@ -24,8 +24,7 @@ For more details on the technologies and tools used, refer to the official docum
 ## 📷 Screenshots
 Below is a visual example of the application:
 
-![Project Preview](https://drive.google.com/file/d/1yksir-5Linz2myQ4VRzWezD2QBNVI9r_/view?usp=drive_link)
-
+![Project Preview](https://drive.google.com/uc?id=1yksir-5Linz2myQ4VRzWezD2QBNVI9r_)
 
 ## 💬 Comments
 We value your feedback! Feel free to leave any comments or suggestions. Your input is greatly appreciated and helps us improve the Movie Query App.
